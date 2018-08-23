@@ -22,6 +22,10 @@ http://yzone.net/blog/112
 https://www.imooc.com/learn/852
 
 
+### 燕十八redis视频教程：
+http://www.php.cn/course/498.html
+
+
 ### Redis中5种数据结构的使用场景介绍：
 https://segmentfault.com/a/1190000004012214
 
